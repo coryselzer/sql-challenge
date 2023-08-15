@@ -4,7 +4,7 @@ In this challenge, we have just been hired at Pewlett Hackard and have been aske
   - Data Engineering : Used the provided data to create a table schema for each of the six CSV files.
       - Specified data types, primary keys and foreign keys
   - Data Modeling : Created an Entity Relationship Diagram (ERD) of the created tables to paint a picture of the relationships
-      - Referenced Website : quickdatabasediagrams.com
+      - Referenced Website : https://quickdatabasediagrams.com
   - Data Analysis : Used Postgres (SQL) coding to analyze the data in a clean manner.
 > Images :
 - Data Engineering
