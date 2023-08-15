@@ -15,3 +15,7 @@ In this challenge, we have just been hired at Pewlett Hackard and have been aske
 - Data Analysis in Postgres
   ![Screenshot 2023-08-15 at 2 15 02 PM](https://github.com/coryselzer/sql-challenge/assets/134936973/26b80c01-64a9-4119-a229-c2526e7640a9)
   ![Screenshot 2023-08-15 at 2 15 15 PM](https://github.com/coryselzer/sql-challenge/assets/134936973/2be2666a-ffdf-41c4-ae75-86fdfd0c708d)
+
+> References :
+  - https://www.postgresqltutorial.com/
+  - https://learnsql.com/
